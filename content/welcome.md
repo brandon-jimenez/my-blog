@@ -1,49 +1,22 @@
 ---
-title: Welcome to empress-blog
+title: Welcome to my blog
 image: /images/welcome.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - brandon
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
-  - getting-started
+  - welcome
 ---
 
-Hey! Welcome to empress-blog, it's great to have you :)
+Hey! Welcome to blog!
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+This going to be my main place to share all the happenings of my homelab and my cybersecurity journey. 
 
-
-### There are a few things that you should know up-front:
-
-1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
-
-1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
-
-1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
-
-### Quick Start
-
-```bash
-# if you don't have ember-cli installed already
-npm install -g ember-cli
-
-ember new super-blog
-cd super-blog
-
-ember install empress-blog empress-blog-casper-template
-```
-
-It will ask you if you want to update the `index.html` file and you should say yes 👍
-
-If you want to see the blog system running on your local machine just run `npm start` and you will
-be able to navigate to  [http://localhost:4200](http://localhost:4200) to see the blog in action.
-
----
-
-The main thing you'll want to read about next is probably: [editing files with empress-blog](/the-editor/).
-
-Once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!
+Stay tuned for:
+  - Posts covering lower power homelabbing with a Odroid NUC-like computer.
+  - Posts covering my attempt at being my own Network admin.
+  - Posts covering my experience with different cybersecurity platform like HackTheBox and TryHackMe.

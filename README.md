@@ -16,7 +16,6 @@ Posts are written in markdown and netlify automatically picks up new commits and
 
 Simple, easy to maintain, and easy to back up.
 
-Follow my journey:
-http://blog.outerhaven.io/
+### Follow my journey: http://blog.outerhaven.io/
 
 
