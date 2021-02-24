@@ -1,12 +1,22 @@
-# empress-blog Netlify Casper Template  
+# my personal blog
 
-This repo is used to generate a new empress-blog with the Casper template using Netlify's template system
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70af09a3-6e22-4e97-a2fa-3dc0cd894162/deploy-status)](https://app.netlify.com/sites/brandonsblog/deploys)
 
-If you want to get started right now with a new empress-blog just click the button below
+Content source for for my cyber sec/tech blog.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/empress/empress-blog-netlify-casper-template)
+## empress-blog Netlify Casper Template  
 
+This repo is used to generate a empress-blog with the Casper template using Netlify's template system
 
 ## Technology
 
-If you are interested in how this works then go checkout the [empress-blog](https://github.com/empress/empress-blog) repo or reach out to me [on Twitter](https://twitter.com/real_ate)
+If you are interested in how this works then go checkout the [empress-blog repo](https://github.com/empress/empress-blog)
+
+Posts are written in markdown and netlify automatically picks up new commits and automatically redeploys the blog.
+
+Simple, easy to maintain, and easy to back up.
+
+Follow my journey:
+http://blog.outerhaven.io/
+
+
