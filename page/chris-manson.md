@@ -1,5 +1,5 @@
 ---
-title: Maintained by Brandon Jimenez
+title: Maintained by Chris Manson
 image: /images/built-by.jpg
 imageMeta:
   attribution:
