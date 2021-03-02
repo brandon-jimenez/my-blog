@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Brandons Blog,
+      title: 'Brandons Blog',
       description: 'All Things Cybersecurity, Homelab, and More',
       coverImage: '/images/Bliss.jpg',
 
@@ -32,8 +32,6 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       },{
-
-      },{  
         label: 'About Me',
         route: 'page',
         id: 'about-me' 
