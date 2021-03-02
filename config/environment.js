@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Brandons Blog',
+      title: 'Outerhaven.Blog',
       description: 'All Things Cybersecurity, Homelab, and More',
       coverImage: '/images/Bliss.jpg',
 
