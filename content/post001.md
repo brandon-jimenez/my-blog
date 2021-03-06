@@ -13,16 +13,17 @@ tags:
 ---
 
 # Lets get started
-
+---
 My primary reason for creating this blog was to have an outlet to showcase my progress in the various areas I study. This also helps me work on information rentention and allows me to give back to the community that has shown me the awesome world of cybersecurity, pentesting, homelabbing, and systems administration. 
 
 I want to start out by chipping away at my project backlog. I've started a number of things that I want to swing back around and finish up. So far up on the docket:
-
+---
 ### Homebrew Rubber Ducky
 
 I'm a big fan of [The Cyber Mentor](https://twitter.com/thecybermentor?s=21) and last month he posted this video about a $2 [Rubber Ducky](https://shop.hak5.org/collections/hotplug-attack-tools/products/usb-rubber-ducky-deluxe) alternative. A super easy fun little project.
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/uH-4btjE56E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Docker Compose
 
@@ -52,7 +53,7 @@ To remedy that I want to segregate my network with VLANs, but while keeping func
 
 Should be fun to tackle.
 
-
+---
 
 #### That's what I have to work on so far!
 
