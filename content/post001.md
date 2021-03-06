@@ -1,6 +1,6 @@
 ---
 title: Let's get started
-image: /images/post001/charlie.jpg
+image: /images/charlie.jpg
 imageMeta:
   attribution:
   attributionLink:
