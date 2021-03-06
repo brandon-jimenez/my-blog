@@ -22,11 +22,7 @@ I want to start out by chipping away at my project backlog. I've started a numbe
 
 I'm a big fan of [The Cyber Mentor](https://twitter.com/thecybermentor?s=21) and last month he posted this video about a $2 [Rubber Ducky](https://shop.hak5.org/collections/hotplug-attack-tools/products/usb-rubber-ducky-deluxe) alternative. A super easy fun little project.
 
- <iframe width="560" height="315"
-src="https://youtu.be/uH-4btjE56E$" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/uH-4btjE56E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Docker Compose
 
