@@ -9,7 +9,10 @@ authors:
   - brandon
 date: Fri Mar 06 2021
 tags:
-  - docker, cybersecurity, hacking, homelab
+  - homelab
+  - docker
+  - cybersecurity
+  - hacking
 ---
 
 # Lets get started
