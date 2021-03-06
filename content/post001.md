@@ -10,9 +10,6 @@ authors:
 date: Fri Mar 06 2021
 tags:
   - homelab
-  - docker
-  - cybersecurity
-  - hacking
 ---
 
 # Lets get started
