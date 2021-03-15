@@ -1,6 +1,6 @@
 ---
 title: Docker Compose (Part 1)
-image: /images/docker-post.jpg
+image: /images/docker-post1.jpg
 imageMeta:
   attribution:
   attributionLink:
