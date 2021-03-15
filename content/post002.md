@@ -16,6 +16,7 @@ tags:
 ### (Part 1)
 
 ## Ubuntu Snaps
+
 Originally, when I started up my Docker environment I set it up using the snap from Ubuntu. It was just one of the many things you can install when first setting up Ubuntu Server. I had thought that since I was going to install Docker anyway why not,, just get it out of the way.
 
 Or so I thought...
@@ -127,8 +128,10 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 Afterwards you simply test it like this!:
 ![Validating Compose Install](/images/compose-success.png)
-*Note: Obfuscating my Username and name of the server as my internal naming convention is based on inside jokes in my household. Rather not embarrass myself.*
+*Note: Obfuscating my username and name of the server as my internal naming convention is based on inside jokes in my household. Rather not embarrass myself.*
+
 ## Conclusion so far
+
 It's fairly simple to get a hang of Compose.
 
 With the help of [composerize](https://www.composerize.com/) and the reference compose files for the services I run; I've made some progress.
@@ -137,10 +140,10 @@ Below is a table showing the progress so far in this migration.
 
 | To-Do | Mirgated | Issues |
 | -------- | -------- | -------- |
-| pihole    | complete    |  WEBPASSWAORD env flag not working for a reason I couldn't get to the bottom of     |
+| pihole | complete | WEBPASSWAORD env flag not working for a reason I couldn't get to the bottom of |
 | portainer | pending | configuration not carrying over |
-| homebridge-wyze | pending |
-| plex | pending |
+| homebridge-wyze | pending | |
+| plex | pending | |
 | unifi-controlller | complete | No issues |
 
 I would to figure out where my portainer config is hiding since it’s not carrying over when setting it back up with compose. 
