@@ -139,11 +139,11 @@ With the help of [composerize](https://www.composerize.com/) and the reference c
 Below is a table showing the progress so far in this migration. 
 
 | To-Do | Mirgated | Issues |
-| -------- | -------- | -------- |
+| --- | --- | --- |
 | pihole | complete | WEBPASSWAORD env flag not working for a reason I couldn't get to the bottom of |
 | portainer | pending | configuration not carrying over |
-| homebridge-wyze | pending | |
-| plex | pending | |
+| homebridge-wyze | pending | - |
+| plex | pending | - |
 | unifi-controlller | complete | No issues |
 
 I would to figure out where my portainer config is hiding since it’s not carrying over when setting it back up with compose. 
