@@ -24,4 +24,4 @@ Simple, easy to maintain, and easy to back up.
 # Closing this blog and moving to WordPress
 This is was a fun project but ulimately I decided to switch to something was more convenient to use. 
 
-##Link to new blog: https://outerhaven.io/
+## Link to new blog: https://outerhaven.io/
