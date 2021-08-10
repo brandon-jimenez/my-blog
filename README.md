@@ -18,6 +18,10 @@ Posts are written in markdown and netlify automatically picks up new commits and
 
 Simple, easy to maintain, and easy to back up.
 
-### Follow my journey: http://blog.outerhaven.io/
+    DEPRECATED: Follow my journey: http://blog.outerhaven.io
 
 
+# Closing this blog and moving to WordPress
+This is was a fun project but ulimately I decided to switch to something was more convenient to use. 
+
+##Link to new blog: https://outerhaven.io/
